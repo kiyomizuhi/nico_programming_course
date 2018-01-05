@@ -1,8 +1,0 @@
-body{
-    background-color: gray;
-}
-table, td, th {
-    border: dashed 1px gray;
-    background-color: white;
-    color: red;  
-}
