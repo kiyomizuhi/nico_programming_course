@@ -1,4 +1,6 @@
 # nico_programming_course
+This programming course is offered by Dwango, which is famous for its video streaming service (nico nico douga) in Japan.
+https://www.nnn.ed.nico/pages/programming/
 
 Course 1: Introductory web application
   - html, css, javascript
